@@ -1,2 +1,0 @@
-# nosql-challenge
-Hw12
